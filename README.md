@@ -6,65 +6,6 @@
 
 <hr>
 
-<style>
-  body {
-    background-color: #fff5f0;
-  }
-
-  .profile-card {
-    max-width: 650px;
-    margin: auto;
-    padding: 25px;
-    border-radius: 20px;
-    background: linear-gradient(135deg, #ffd6c9, #ffe8df);
-    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.12);
-    font-family: Arial, Helvetica, sans-serif;
-    color: #4a2c2a;
-  }
-
-  .profile-card h2 {
-    text-align: center;
-    color: #b85642;
-  }
-
-  .section {
-    margin-top: 20px;
-  }
-
-  .profile-card ul {
-    list-style: none;
-    padding: 0;
-  }
-
-  .profile-card li {
-    padding: 12px;
-    margin: 10px 0;
-    background: #fff;
-    border-radius: 10px;
-    font-size: 16px;
-  }
-
-  .label {
-    font-weight: bold;
-    color: #8c3f2f;
-  }
-
-  .text-box {
-    background: #ffffff;
-    padding: 15px;
-    border-radius: 12px;
-    line-height: 1.6;
-    font-size: 16px;
-  }
-
-  .footer {
-    text-align: center;
-    margin-top: 25px;
-    color: #7a4a42;
-    font-size: 14px;
-  }
-</style>
-
 <div class="profile-card">
 
   <h2>📌 Personal Information</h2>
