@@ -1,6 +1,3 @@
-<!-- ===================== -->
-<!-- GitHub Profile README -->
-<!-- ===================== -->
 
 <div align="center">
   <h1>🍑 Hi, I'm Babylen Pedres</h1>
